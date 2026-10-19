@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+*.pyc
+ecommerce_sales_1000_records.csv
+ecommerce_analytics_outputs.xlsx
